@@ -70,14 +70,14 @@ for i in range(7):
 print(E)
 
 #실습 - 9
-"""name = input()
-print("hello " + name)"""
+name = input()
+print("hello " + name)
 #터미널 아래에 빈 네모 박스(텍스트) 클릭 후 타이핑
 
 #실습 - 9.2
-"""a = input()
+a = input()
 b = input()
-print(b + E + a)"""
+print(b + E + a)
 
 #실습 - 10
 a = 123.0
@@ -86,7 +86,7 @@ print(a*b)
 print(E)
 
 #실습 - 11
-"""
+
 print("정수를 입력해주세요")
 a1 = input()
 b1 = input()
@@ -95,38 +95,30 @@ b1 = int(b1)
 print(a1//b1)
 print(a1%b1)
 print(E)
-"""
+
 
 #실습 - 12
-"""
 a12,b12 = input().split()
 a12 = str(a12)
 b12 = int(b12)
 print(a12*b12)
-"""
 
 #실습 - 13
 print(123==456)
 print(E)
 
 #실습 - 14
-"""
 a14, b14 = input().split()
 print(a14!=b14)
 print(E)
-"""
 
 #실습  - 15
-"""
 a15, b15 = input().split()
 print(a15==b15)
-"""
 
 #실습 - 16
-"""
 a16, b16 = input().split()
 print(a16<=b16)
-"""
 
 #실습 - 17
 a171 = "인마고"
