@@ -55,17 +55,17 @@
 #실습 - 10
 #다음 조건에 맞게 코드를 작성하시오.
 # 1. name 변수에 자신의 이름을 대입
-name = "송지율"
+#name = "송지율"
 # 2. to 변수에 "Hello" 대입
-to = "Hello"
+#to = "Hello"
 # 3. say 변수에 name 변수와 to 변수를 ","f로 연결하고 출력하기 (연산자 사용)
-say = name + ',' + to
-print(say)
+#say = name + ',' + to
+#print(say)
 # 4. say변수 5번 출력하기 (연산자 사용)
-print(say*5)
+#print(say*5)
 # 5. say 변수 3번 줄 바꿔 출력하기 (연산자, 이스케이프 코드사용)
-print((say+'\n')*3)
+#print((say+'\n')*3)
 # 6. "Happy Programming" 출력 (큰 따옴표도 같이 출력)
-print("\"Happy Programming\"")
+#print("\"Happy Programming\"")
 # 7. Hi, "Happy Programming" 출력하기 (이스케이프 코드 사용)
-print("Hi, \"Happy Programming\"")
+#print("Hi, \"Happy Programming\"")
